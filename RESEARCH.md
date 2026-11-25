@@ -26,11 +26,11 @@ Monday's rally (Nasdaq −1.5%, Bitcoin below $60,000). Press time: 21:00 UTC.
 ## Breadth
 36 stories: 3 leads + 12 feature cards + 21 numbered list items. 8 regions
 (N. America 4, Latin America 3, Europe 9, Middle East 7, Africa 4, South
-Asia 1, East Asia 6, Oceania 2) and 12 fields (War 10, Politics 7, Courts 3,
-Business 1, Tech 3, Space 2, Health 2, Climate 2, Sport 1, Disaster 3,
-Crime 3, Migration 1). Numbers band: 10/12 (#1), 4 (#2), 96 drones overnight
+Asia 1, East Asia 6, Oceania 2) and 13 fields (War 10, Politics 7, Courts 1,
+Business 1, Tech 3, Space 1, Health 2, Climate 2, Sport 1, Disaster 3,
+Crime 3, Migration 1, Security 1). Numbers band: 10/12 (#1), 4 (#2), 96 drones overnight
 (#17), 272 meningitis cases (#6), 11 wounded in Riyadh (#11), 6,803 Myanmar
-nationals to return (#26). UTC timeline: 8 events from 00:00 to 20:41,
+nationals to return (#26). UTC timeline: 8 events from 02:09 to 20:41,
 press time 21:00 UTC.
 
 ## What was left out (DATE CHECK)
@@ -41,15 +41,22 @@ Nasdaq +6.5%) Monday 23 Nov. US blacklists Megaspeed Monday 23 Nov. Pentagon
 rebukes Canada Monday 23 Nov. El Chapo Isidro captured Friday 20 Nov (the
 drone role and Mexico's trial decision were reported Tuesday). Bukele names
 3 soldiers killed in Haiti Sunday 23 Nov. Murmansk governor arrested Monday
-23 Nov. Trump death-penalty directive Monday 23 Nov.
+23 Nov. Trump death-penalty directive Monday 23 Nov. China death sentence
+for spying (official Ma) announced Monday 23 Nov. Quantinuum Helios
+error-correction record announced 19 Oct 2026. The Lahj bus strike itself
+Monday 23 Nov (only Saba's Tuesday toll update is in the image). The
+Indonesia VP names read out Monday 23 Nov evening (only Tuesday reactions
+are in the image).
 
 ## Sources (primary, dated 24 Nov 2026; full list in notes/sumber.md)
 Reuters, AP, Al Jazeera, UN News, WHO, NASAspaceflight, ESA, Investopedia,
 CoinDesk, RNZ, The Guardian, Irish Times, WSJ, Just Security Early Edition,
-The Hindu BusinessLine, China Daily Asia. Digest-only items (flagged in the
-notes): Haftar's Turkey visit, the missing DRC plane, Saudi strikes on Yemen
-buses (Saba), the China spying death sentence (Gold Wall Press), the
-Quantinuum quantum claim, Indonesia's VP picks (names public Tuesday).
+The Hindu BusinessLine, China Daily Asia. Items still sourced from a daily
+digest plus one secondary outlet (flagged in the notes): NATO's space vow,
+Iraq's Kurdish oilfields order, Zelensky's four-way talks call, Germany's
+Delta access. The DRC plane is now sourced to the BBC (24 Nov); the Saba
+toll, the Amran/PDIP reactions, the Chen Jining probe and the DeepMind exam
+are all sourced to primaries dated 24 Nov.
 
 ## Fonts
 Gelasio (serif, headlines and numbers) and Source Sans 3 (sans, body), both
